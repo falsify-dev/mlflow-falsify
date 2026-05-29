@@ -13,7 +13,6 @@ authors = [
     { name = "Cüneyt Öztürk", email = "hello@falsify.dev" },
 ]
 maintainers = [
-    { name = "Cüneyt Öztürk", email = "hello@falsify.dev" },
 ]
 keywords = [
     "mlflow",
