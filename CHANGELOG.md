@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.3.2] - 2026-11-02
+
+### Changed
+- Repository links in package metadata and docs point to the `falsify-dev` GitHub organisation. No behaviour change.
+- Tests: the TV-001 fixture follows the regenerated conformance vectors (`producer.id: falsify.dev`).
+
 ## [0.3.1] - 2026-10-28
 
 ### Fixed
