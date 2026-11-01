@@ -36,7 +36,7 @@ TV_001_YAML = textwrap.dedent(
     """
 )
 
-TV_001_HASH = "1a3466cc08ee7fb60a726ea1c4db6ecf48a9f847b9b7523bfb54b2ffaefee546"
+TV_001_HASH = "47f9956b3b9c495b3bf03b67398f54d0aa2133a2faf9b0522a9efa90bb109466"
 
 
 class _Chdir:
